@@ -1,11 +1,11 @@
-# Fortune 500 Companies Data Analysis
-### Overview
+Fortune 500 Companies Data Analysis
+Overview
 This project analyzes a dataset of Fortune 500 companies to provide insights into employee benefits, revenue, and industry performance. Using SQL queries, we explore how different industries compare in terms of revenue, healthcare benefits, paid time off (PTO), and parental leave offerings.
 
-### Objective
+Objective
 The objective of this project is to identify patterns in revenue and benefits across various industries, with a particular focus on healthcare benefits, PTO, and parental leave policies. The analysis highlights key trends within the technology industry, among others.
 
-### Technologies
+Technologies
 SQL: For querying and analyzing the dataset.
 MySQL: Used for storing and managing the data.
 Key Queries & Insights
